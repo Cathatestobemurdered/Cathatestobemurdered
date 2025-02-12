@@ -17,8 +17,6 @@
 ![R](https://img.shields.io/badge/-R-000?&logo=r)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)
-![Sci-Kit Learn](https://img.shields.io/badge/-Sci_Kit-000?&logo=scikitlearn)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 
