@@ -1,7 +1,7 @@
 # Hi there, I'm Alaia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Undergrad](https://img.shields.io/badge/Undergrad-SCAU-blue)
-![Internship](https://img.shields.io/badge/Intership-Edelman Data&intelligence-blue)
+![Internship](https://img.shields.io/badge/Edelman-blue)
 
 - I am working as a analysis intern in the [DXI China team]([https://lab.plopes.org](https://www.edelmandxi.com/)) at Edelman.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
