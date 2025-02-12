@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Yingyun, a full-time junior university student who has passion for technology&business👨‍💻 learning coding for over 3 years 🚀</div>  
+### <div align="center">Hi there! I'm Yingyun zhan, a finance student who has strong passion for technology&inovatation managemant👨‍💻 learning coding for over 3 years 🚀</div>  
   
 
 - 🔭 I’m currently working on [Edelman Data&intelligence](https://www.edelmandxi.com/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently preparing for graduate studies to bridge the gap between finance, business strategy and emerging technologies like blockchain& digital finance
   
 
 <br/>  
