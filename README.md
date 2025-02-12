@@ -7,7 +7,7 @@
 - My areas of interest include Blockchain, risk analytics and machine learning.
 - I am seeking opportunities for a graduate studies in the field of technologgy.
 
-[Email](mailto:Alaiazhan@163.com) |  [Personal Website](xuanyou@seas.upenn.edu) | [Linkedin](https://www.linkedin.com/in/Yingyunzhan0731/)
+[Email](mailto:Alaiazhan@163.com) |  [Linkedin](https://www.linkedin.com/in/Yingyunzhan0731/)
 
 ## Languages & Techologies
 
