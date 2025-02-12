@@ -4,7 +4,7 @@
 ![Internship](https://img.shields.io/badge/Internship-Edelman-blue)
 
 - I am working as a analysis intern in the [DXI China team]([https://lab.plopes.org](https://www.edelmandxi.com/)) at Edelman.
-- My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
+- My areas of interest include Blockchain, risk analytics and machine learning.
 - I am seeking opportunities for a graduate studies in the field of technologgy.
 
 [Email](mailto:xuanyou@seas.upenn.edu) | [Lab Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Personal Website](xuanyou@seas.upenn.edu) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
