@@ -1,17 +1,12 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *"
-
-  # allows to manually run the job at any time
-  workflow_dispatch:
-
-  # run on every push on the main branch
+    - cron: "0 */24 * * *"  # 每 24 小时自动运行
+  workflow_dispatch:         # 可以手动运行
   push:
     branches:
-      - main
+      - main                 # 每次推送 main 分支也会触发
 
 jobs:
   generate:
@@ -19,7 +14,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: 生成蛇蛇 SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: 推送生成文件到 output 分支
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
