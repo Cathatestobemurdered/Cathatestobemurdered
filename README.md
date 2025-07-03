@@ -1,5 +1,6 @@
 # Hi there, I'm Alaia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
 ![Undergrad](https://img.shields.io/badge/Undergrad-SCAU-blue)
 ![Internship](https://img.shields.io/badge/Internship-Edelman-blue)
 
@@ -21,3 +22,15 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 
 
+steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
