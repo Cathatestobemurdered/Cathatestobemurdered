@@ -1,7 +1,7 @@
 # Hi there, I'm Alaia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![Undergrad](https://img.shields.io/badge/Undergrad-SCAU-blue)
+![Grad](https://img.shields.io/badge/Grad-NYU-purple)
 ![Internship](https://img.shields.io/badge/Internship-Edelman-blue)
 
 - I am working as a analysis intern in the [DXI China team]([https://lab.plopes.org](https://www.edelmandxi.com/)) at Edelman.
