@@ -14,13 +14,12 @@
 ## Languages & Techologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=r)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cathatestobemurdered/Cathatestobemurdered/output/github-contribution-grid-snake-dark.svg">
