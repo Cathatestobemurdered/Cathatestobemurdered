@@ -3,6 +3,8 @@
 
 ![Grad](https://img.shields.io/badge/Grad-NYU-purple)
 ![Internship](https://img.shields.io/badge/Internship-Edelman-blue)
+![Internship](https://img.shields.io/badge/Internship-TCL-red)
+![Internship](https://img.shields.io/badge/Internship-IQVIA-green)
 
 - My areas of interest include Blockchain, risk analytics and machine learning.
 - I am seeking opportunities for a graduate studies in the field of technologgy.
