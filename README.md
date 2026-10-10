@@ -7,7 +7,7 @@
 ![Internship](https://img.shields.io/badge/Internship-IQVIA-green)
 
 - My areas of interest include Blockchain, risk analytics and machine learning.
-- I am seeking opportunities for a graduate studies in the field of technologgy.
+- I am seeking opportunities in the field of technologgy.
 
 [Email](mailto:Alaiazhan@163.com) |  [Linkedin](https://www.linkedin.com/in/Yingyunzhan0731/)
 
