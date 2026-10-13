@@ -9,7 +9,6 @@
 - My areas of interest include Blockchain, risk analytics and machine learning.
 - I am seeking opportunities in the field of technologgy.
 
-[Email](mailto:yz12709@nyu.com) |  [Linkedin](https://www.linkedin.com/in/Yingyunzhan0731/)
 
 ## Languages & Techologies
 
